@@ -11,4 +11,5 @@ spec:
     name: pet-clinic
     weight: 100
   port:
-    targetPort: my-http
+    targetPort: 8080
+    port: 8080
